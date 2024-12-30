@@ -1,0 +1,13 @@
+vllm
+tqdm
+datasets
+torch
+transformers==4.42.3
+python_dateutil
+openai
+sympy==1.12
+antlr4-python3-runtime==4.11.1 # ! The version needs to be compatible with sympy.
+word2number
+Pebble
+timeout-decorator
+latex2sympy2
